@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Flecy-payments'
+project = 'Flexy-payments'
 copyright = '2025, Flexy-payments'
-author = 'Graziella'
+author = 'ACITIM'
 
 release = '0.1'
 version = '0.1.0'
