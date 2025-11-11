@@ -6,3 +6,10 @@ Welcome to flexy-payments documentation!
 .. note::
 
    This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   api
