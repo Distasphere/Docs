@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Flexy-payments'
+copyright = '2025, Flexy-payments'
+author = 'ACITIM'
 
 release = '0.1'
 version = '0.1.0'
