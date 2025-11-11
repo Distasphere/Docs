@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'Flecy-payments'
+copyright = '2025, Flexy-payments'
 author = 'Graziella'
 
 release = '0.1'
